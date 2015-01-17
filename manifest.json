@@ -1,0 +1,15 @@
+{
+    "name": "com.tuxcron.gau1991.unity-webapps-slack-unofficial",
+    "description": "description of slack-webapp",
+    "architecture": "all",
+    "title": "slack-unofficial",
+    "hooks": {
+        "slack-unofficial": {
+            "apparmor": "unity-webapps-slack-unofficial.apparmor",
+            "desktop": "unity-webapps-slack-unofficial.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Gaurav Ashtikar <gau1991@gmail.com>",
+    "framework": "ubuntu-sdk-14.04"
+}

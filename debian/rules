@@ -1,0 +1,4 @@
+#!/usr/bin/make -f
+
+# This is the standard debian/rules file common to all webapps.
+include /usr/share/unity-webapps/rules.mk

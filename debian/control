@@ -1,0 +1,20 @@
+Source: unity-webapps-slack-unofficial
+Section: web
+Priority: optional
+Standards-Version: 0.1
+Maintainer: Gaurav Ashtikar <gau1991@gmail.com>
+Build-Depends: debhelper (>= 9),
+               dh-migrations,
+               unity-webapps-dev (>= 2.4.17),
+Homepage: http://www.slack.com
+
+Package: unity-webapps-slack-unofficial
+Architecture: all
+Depends: unity-webapps-common,
+         xdg-utils,
+         ${misc:Depends},
+XB-Ubuntu-Webapps-Includes: https://slack.com/*;https://*.slack.com/*;https://slack.com/*;https://*.slack.com/*
+XB-Ubuntu-Webapps-Name: Slack
+XB-Ubuntu-Webapps-Domain: slack.com
+Description: Unity Webapp for Slack Unofficial
+ Unofficial Slack Webapp for Unity
