@@ -21,8 +21,8 @@ sudo apt-get install unity-webapps-slack-unofficial
 ```
 
 ## Missing Features:
-1. Notifications are not yet integarted with Unity 
-2. Notifications count is not yet visiabal on Unity Top bar
+1. Notifications are not yet integrated with Unity 
+2. Notifications count is not yet visibal on Unity Top bar
 
 ## License:
 1. Slack is registered Trademark for Slack Technologies, Inc
