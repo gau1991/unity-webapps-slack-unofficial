@@ -3,7 +3,7 @@ Upstream-Name: unity-webapps-slack-unofficial
 Upstream-Contact: Gaurav Ashtikar <gau1991@gmail.com>
 
 Files: debian/* *.js *.json
-Copyright: 2015 Gaurav Ashtikar.
+Copyright: 2015 Gaurav Ashtikar, 2012 Canonical Ltd.
 License: GPL-3
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
