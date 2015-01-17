@@ -7,11 +7,6 @@
 // @require       utils.js
 // ==/UserScript==
 
-// This placeholder gets munged with real data at build time.
-var WebappsGettextDict = JSON.parse(unescape(
-    "%7B%22GETTEXT%22%3A%22PLACEHOLDER%22%7D"
-));
-
 var Unity = external.getUnityObject(1);
 window.Unity = Unity;
 unsafeWindow.Unity = window.Unity;
