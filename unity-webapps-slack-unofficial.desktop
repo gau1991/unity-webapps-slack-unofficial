@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Slack-Unofficial
+Name=Slack Unofficial
 Comment=Slack Unofficial Ubuntu Web App
 Type=Application
 Icon=unity-webapps-slack-unofficial.png
@@ -7,4 +7,4 @@ Exec=webapp-container --store-session-cookies --webappUrlPatterns=https?://*slac
 Terminal=false
 X-Ubuntu-Touch=true
 
-Name[en]=unity-webapps-slack-unofficial
+Name[en]=Slack Unofficial
