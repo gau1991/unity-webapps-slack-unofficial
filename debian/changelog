@@ -1,10 +1,7 @@
 unity-webapps-slack-unofficial (0.1-ubuntu1) trusty; urgency=low
 
-  [ Ubuntu daily release ]
-  * New rebuild forced
-
-  [ Alexandre Abreu ]
-  * Fix Google Accounts url pattern (LP: #1306661)
+  [ First Release ]
+  * First Release
 
  -- Gaurav Ashtikar <gau1991@gmail.com>  Sat, 17 Jan 2015 12:50:00 +0530
 

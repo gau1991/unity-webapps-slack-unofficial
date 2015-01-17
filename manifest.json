@@ -1,8 +1,8 @@
 {
     "name": "com.tuxcron.gau1991.unity-webapps-slack-unofficial",
-    "description": "description of slack-webapp",
+    "description": "Unofficial Slack Web App Unity",
     "architecture": "all",
-    "title": "slack-unofficial",
+    "title": "Slack-Unofficial",
     "hooks": {
         "slack-unofficial": {
             "apparmor": "unity-webapps-slack-unofficial.apparmor",
